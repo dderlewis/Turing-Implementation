@@ -1,0 +1,7 @@
+C:\Users\Daniel Lewis\source\repos\TMachine\TMachine\bin\Debug\TMachine.exe.config
+C:\Users\Daniel Lewis\source\repos\TMachine\TMachine\bin\Debug\TMachine.exe
+C:\Users\Daniel Lewis\source\repos\TMachine\TMachine\bin\Debug\TMachine.pdb
+C:\Users\Daniel Lewis\source\repos\TMachine\TMachine\obj\Debug\TMachine.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Lewis\source\repos\TMachine\TMachine\obj\Debug\TMachine.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Lewis\source\repos\TMachine\TMachine\obj\Debug\TMachine.exe
+C:\Users\Daniel Lewis\source\repos\TMachine\TMachine\obj\Debug\TMachine.pdb
